@@ -11,7 +11,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=E879F9&center=true&vCenter=true&width=680&lines=👩‍💻+Software+Engineer+%7C+Problem+Solver;🏗️+I+build+clean%2C+scalable+software;🔥+Passionate+about+architecture+%26+design;🚀+Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=E879F9&center=true&vCenter=true&width=680&lines=Software+Engineer+%7C+Problem+Solver;Building+clean%2C+scalable+systems;Passionate+about+architecture+%26+design;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -21,6 +21,9 @@
 <p align="center">
   <a href="mailto:meryemelarhzali@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d0d1a?style=for-the-badge&logo=gmail&logoColor=e879f9"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/meryeme-larhzali/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=e879f9"/>
   </a>&nbsp;
   <a href="https://github.com/MeryemeLarhzali">
     <img src="https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=e879f9"/>
@@ -69,7 +72,7 @@ const meryeme: Engineer = {
 ### 🌐 Web & Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,spring,express,html,css,tailwind&theme=dark&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,angular,html,css,tailwind&theme=dark&perline=8"/>
   </a>
 </p>
 
@@ -83,7 +86,7 @@ const meryeme: Engineer = {
 ### ⚙️ DevOps & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman&theme=dark&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode,idea,postman&theme=dark&perline=8"/>
   </a>
 </p>
 
@@ -182,6 +185,9 @@ const meryeme: Engineer = {
 <p align="center">
   <a href="mailto:meryemelarhzali@gmail.com">
     <img src="https://img.shields.io/badge/meryemelarhzali%40gmail.com-0d0d1a?style=for-the-badge&logo=gmail&logoColor=e879f9&labelColor=0d0d1a"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/meryeme-larhzali/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=e879f9&labelColor=0d0d1a"/>
   </a>
 </p>
 
