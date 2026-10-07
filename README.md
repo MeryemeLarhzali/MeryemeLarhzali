@@ -1,118 +1,60 @@
-<!-- ════════════════════════════════ HEADER ════════════════════════════════ -->
+<!-- ══════════════════════════════ HEADER ══════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Meryeme%20Larhzali&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20Backend%20%C2%B7%20Morocco&descSize=16&descColor=c4b5fd&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=220&section=header&text=Meryeme%20Larhzali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Morocco&descAlignY=56&descSize=18&descColor=e9d5ff"/>
 
 <p align="center">
-  <a href="mailto:meryemelarhzali@gmail.com"><img src="https://img.shields.io/badge/Email-302b63?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/meryeme-larhzali/"><img src="https://img.shields.io/badge/LinkedIn-302b63?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <!-- <a href="https://TON-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-302b63?style=flat-square&logo=react&logoColor=white"/></a> -->
-  <img src="https://img.shields.io/badge/Location-Morocco-302b63?style=flat-square&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-7c3aed?style=flat-square"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Problem+Solver;Building+clean%2C+scalable+systems;Passionate+about+architecture+%26+design;Always+learning%2C+always+shipping" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <a href="mailto:meryemelarhzali@gmail.com"><img src="https://img.shields.io/badge/Gmail-1e1b4b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/meryeme-larhzali/"><img src="https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MeryemeLarhzali"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MeryemeLarhzali&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 </p>
 
 <br/>
 
-<!-- ════════════════════════════════ ABOUT ════════════════════════════════ -->
+<!-- ══════════════════════════════ ABOUT ══════════════════════════════ -->
 
-### 👩‍💻 About
+<h2 align="center">About Me</h2>
 
-I'm a **Software Engineer at KLK Khayatey Living** (Casablanca), building modules of an internal **web ERP** used daily by business teams — from the data model and API to the UI and production deployment.
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
-I joined as a full-stack intern, delivered the **Marketing module**, and was hired to build the **Treasury module**. I care about clean architecture, reliable systems, and code that is easy for the next developer to understand.
+```ts
+const meryeme: Engineer = {
+  name       : "Meryeme Larhzali",
+  role       : "Software Engineer",
+  location   : "Morocco 🇲🇦",
+  email      : "meryemelarhzali@gmail.com",
+  focus      : ["Software Architecture",
+                "Backend Development",
+                "System Design"],
+  learning   : ["Cloud Computing",
+                "Microservices",
+                "DevOps"],
+  available  : true
+};
+```
+
+</td>
+<td width="45%" valign="top">
 
 <br/>
 
-<!-- ════════════════════════════════ EXPERIENCE ════════════════════════════════ -->
+🧑‍💻 **Software Engineer** based in Morocco
 
-### 💼 Experience
+🏗️ Focused on **architecture**, **backend** and **system design**
 
-| Role | Company | |
-|:--|:--|:--|
-| **Software Engineer** | KLK Khayatey Living · Casablanca | ERP Treasury module · Production deployment & monitoring |
-| **Full-Stack Developer Intern** *(Master's final-year project, 6 months)* | KLK Khayatey Living · Casablanca | Designed and delivered the ERP Marketing module |
-| **Intern** | Roca · Settat | |
+☁️ Currently learning **Cloud**, **Microservices** & **DevOps**
+
+✨ **Open to opportunities**
 
 <br/>
 
-<!-- ════════════════════════════════ PROJECTS ════════════════════════════════ -->
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 📣 ERP — Marketing Module
-Full-stack module to manage campaigns, leads and budgets.
-
-- Meta Ads Graph API integration with UTM-based **ROI analysis**
-- **Webhook lead ingestion** with phone-number deduplication
-- **WebRTC telephony** to call leads from the ERP
-- Multi-level **budget approval workflow**
-- PDF & Excel reporting
-
-<sub>`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `JWT`</sub><br/>
-<sub>🔒 Private company codebase</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 💰 ERP — Treasury Module
-Treasury features for the finance team: cash-flow tracking and financial operations.
-
-- <!-- Ajoute 2-3 fonctionnalités concrètes ici -->
-- In active development
-
-<sub>`React` `TypeScript` `Node.js` `PostgreSQL`</sub><br/>
-<sub>🔒 Private company codebase · 🟢 In progress</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ☁️ ERP — Production Deployment
-Took the ERP from local development to production with a team of 3.
-
-- Fixed pre-deployment issues on a dedicated branch
-- Deployed on **Render**: static frontend, API service, managed PostgreSQL
-- Designed an alternative **AWS architecture** (Amplify, ECS Fargate, ALB, RDS, EFS)
-- Next: **Prometheus + Grafana** monitoring
-
-<sub>`Docker` `Render` `AWS` `PostgreSQL` `CI/CD`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌐 Personal Portfolio
-React portfolio presenting my projects and experience, with a blog coming next.
-
-- Responsive, component-based design
-- Project showcase & contact section
-
-<sub>`React` `TypeScript` `TailwindCSS`</sub><br/>
-<!-- Remplace par le vrai lien du dépôt -->
-<sub>📂 <a href="https://github.com/MeryemeLarhzali/REPO-PORTFOLIO">View repository</a> · 🟢 In progress</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📄 OCR Project
-<!-- Décris en une phrase ce que fait le projet OCR -->
-Document text-extraction project.
-
-<sub>`Python` <!-- adapte les technologies --></sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏢 Portal
-<!-- Décris en une phrase ce que fait le portail -->
-Web portal with its own frontend and backend.
-
-<sub>`React` `Node.js` <!-- adapte les technologies --></sub>
+> *"Write code that humans can read & machines can run."*
 
 </td>
 </tr>
@@ -120,47 +62,49 @@ Web portal with its own frontend and backend.
 
 <br/>
 
-<!-- ════════════════════════════════ STACK ════════════════════════════════ -->
+<!-- ══════════════════════════════ TECH STACK ══════════════════════════════ -->
 
-### 🛠️ Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td width="150"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,angular,html,css&theme=dark" height="36"/></td>
+    <td align="center" width="170"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,c&theme=dark" height="40"/></td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python&theme=dark" height="36"/></td>
+    <td align="center"><b>Web & Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,angular,html,css,tailwind&theme=dark" height="40"/></td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,mongodb&theme=dark" height="36"/></td>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" height="40"/></td>
   </tr>
   <tr>
-    <td><b>DevOps & Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,grafana,prometheus,postman&theme=dark" height="36"/></td>
+    <td align="center"><b>DevOps & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode,idea,postman&theme=dark" height="40"/></td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ════════════════════════════════ EDUCATION ════════════════════════════════ -->
+<!-- ══════════════════════════════ GITHUB STATS ══════════════════════════════ -->
 
-### 🎓 Education
+<h2 align="center">GitHub Statistics</h2>
 
-**Master's in Networks & Computer Systems (RSI)** — Faculty of Science and Technology, Settat · Hassan 1st University
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MeryemeLarhzali&show_icons=true&hide_border=true&bg_color=1e1b4b&title_color=c4b5fd&icon_color=a78bfa&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemeLarhzali&layout=compact&hide_border=true&bg_color=1e1b4b&title_color=c4b5fd&text_color=e2e8f0&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MeryemeLarhzali&hide_border=true&background=1e1b4b&stroke=a78bfa&ring=a78bfa&fire=c084fc&currStreakLabel=c4b5fd&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff"/>
+</p>
 
 <br/>
 
-<!-- ════════════════════════════════ ACTIVITY ════════════════════════════════ -->
+<!-- ══════════════════════════════ CONTRIBUTIONS ══════════════════════════════ -->
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MeryemeLarhzali&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=a78bfa&text_color=e2e8f0&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemeLarhzali&layout=compact&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&text_color=e2e8f0&langs_count=6"/>
-</p>
+<h2 align="center">Contribution Graph</h2>
 
 <p align="center">
   <picture>
@@ -172,14 +116,46 @@ Web portal with its own frontend and backend.
 
 <br/>
 
-<!-- ════════════════════════════════ LEARNING ════════════════════════════════ -->
+<!-- ══════════════════════════════ ENGINEERING VALUES ══════════════════════════════ -->
 
-### 🌱 Currently Exploring
+<h2 align="center">Engineering Values</h2>
 
-**Observability** (Prometheus, Grafana) · **Cloud architecture** (AWS) · **AI / ML** (Transformers, LLM APIs)
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <h1>🧹</h1>
+      <b>Clean Code</b><br/>
+      <sub>Readable, maintainable,<br/>purposeful.</sub>
+    </td>
+    <td align="center" width="200">
+      <h1>🏗️</h1>
+      <b>Scalable Systems</b><br/>
+      <sub>Architecture that grows<br/>with the product.</sub>
+    </td>
+    <td align="center" width="200">
+      <h1>🎯</h1>
+      <b>Deep Ownership</b><br/>
+      <sub>Own the problem,<br/>end to end.</sub>
+    </td>
+    <td align="center" width="200">
+      <h1>🌱</h1>
+      <b>Always Learning</b><br/>
+      <sub>Today's curiosity is<br/>tomorrow's skill.</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
+<!-- ══════════════════════════════ CONTACT ══════════════════════════════ -->
+
+<h2 align="center">Let's Connect</h2>
+
 <p align="center">
-  <sub>Let's talk backend, full-stack or cloud — <a href="mailto:meryemelarhzali@gmail.com">meryemelarhzali@gmail.com</a></sub>
+  <a href="mailto:meryemelarhzali@gmail.com"><img src="https://img.shields.io/badge/meryemelarhzali@gmail.com-1e1b4b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/meryeme-larhzali/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+<p align="center"><i>"The best code is the code that solves the right problem."</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1e1b4b&height=120&section=footer"/>
